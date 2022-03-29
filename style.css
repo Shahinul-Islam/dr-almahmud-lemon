@@ -1,10 +1,19 @@
+.text-color {
+  color: #32325d;
+}
+
+.nav-link {
+  color: #32325d !important;
+  font-weight: 600;
+}
+
 #content {
   max-width: 90%;
   margin: 0 auto;
 }
 
 #content p {
-  color: blueviolet;
+  color: #32325d;
   font-weight: 600;
 }
 
