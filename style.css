@@ -1,3 +1,6 @@
+body {
+  scroll-behavior: smooth;
+}
 .text-color {
   color: #32325d;
 }
