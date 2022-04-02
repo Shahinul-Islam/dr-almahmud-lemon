@@ -7,6 +7,10 @@
   font-weight: 600;
 }
 
+.dim-text {
+  color: #41417c;
+}
+
 #content {
   max-width: 90%;
   margin: 0 auto;
