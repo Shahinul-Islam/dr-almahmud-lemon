@@ -123,3 +123,15 @@ hr {
   font-weight: 800;
   color: #32325d !important;
 }
+/* try to hover  */
+
+.nav-item::after {
+  display: block;
+  content: "";
+  border-bottom: solid 3px #32325d;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+.nav-item:hover::after {
+  transform: scaleX(0.9);
+}
