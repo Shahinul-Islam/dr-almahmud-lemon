@@ -1,5 +1,6 @@
 body {
   scroll-behavior: smooth;
+  position: relative;
 }
 
 .text-color {
@@ -55,15 +56,6 @@ body {
   right: 10px;
   bottom: -0.5em;
 }
-
-/* .testimonial div {
-  width: 0;
-  height: 0;
-  border-left: 0 solid transparent;
-  border-right: 20px solid transparent;
-  border-top: 20px solid #efefef;
-  margin: 0 0 0 60px;
-} */
 
 .testimonial p {
   margin: 8px 0 0 20px;
@@ -130,5 +122,4 @@ hr {
 .logo {
   font-weight: 800;
   color: #32325d !important;
-  /* font-size: 18px; */
 }
