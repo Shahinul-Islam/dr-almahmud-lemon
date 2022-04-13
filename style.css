@@ -76,7 +76,7 @@ hr {
 }
 
 /* typing */
-.typed::after {
+/* .typed::after {
   content: "|";
   display: inline;
   -webkit-animation: blink 0.7s infinite;
@@ -116,7 +116,7 @@ hr {
   100% {
     opacity: 1;
   }
-}
+} */
 
 /* logo  */
 .logo {

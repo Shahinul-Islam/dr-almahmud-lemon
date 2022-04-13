@@ -1,5 +1,5 @@
 //auto typing
-const text = document.getElementById("auto-typed");
+/* const text = document.getElementById("auto-typed");
 const prog = text.innerText;
 let idx = 0;
 
@@ -11,4 +11,4 @@ function writeText() {
   if (idx > prog.length) {
     idx = 1;
   }
-}
+} */
